@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style/style.css">
+        <script  type="text/javascript" src="script/script.js"></script>
+        <title>Rick and Morty Character-Guide: Figuren</title>
+    </head>
+    <body onload="loadxml('xml/figurenverzeichnis.xml',loadFigurenListe)">
+    <div id="wrapper">
+        <header class="oben">
+            <div id="titel">
+                <img id="titelbild" src="img/banner.png" alt="Titelbild">
+            </div>
+        </header>
+        <nav class="menu">
+            <header>Menü</header>
+            <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="figures.html">Alle Figuren</a></li>
+            <li><a href="rand.html">Zufällige Figur</a></li>
+            <li><a href="impressum.html">Impressum</a></li>
+            </ul>
+        </nav>
+        <main class="mainContent">
+            <article>
+            <section>
+                <h1>Alle Figuren</h1>
+                Hier findest du eine Liste aller Foguren. Klicke auf den Namen einer Figur, um die Charakterseite aufzurufen!
+            </section>
+            <section id="charakterListe">
+                <table id="liste"></table>
+            </section>
+            <section id="charakterSeite">
+                <img id="charFoto" src="placeholder.jpg" alt="charakterfoto">
+                <h2 id="charName"></h2>
+                <h3 id="charKategorie"></h3>
+                <table>
+                    <tr><td class="links">Erster Auftritt:</td><td class="rechts"  id="charFirstseen"></td></tr>
+                    <tr><td class="links">Alter:</td><td class="rechts" id="charAlter"></td></tr>
+                    <tr><td class="links">Herkunfsplanet:</td><td class="rechts" id="charHerkunft"></td></tr>
+                    <tr><td class="links">Spezies:</td><td class="rechts" id="charSpezies"></td></tr>
+                </table>
+                <p id="charBeschreibung"></p>
+                <button type="button" onclick="loadxml('xml/figurenverzeichnis.xml',loadFigurenListe)">Zurück</button>
+            </section>
+            </article>
+        </main>
+    </div>
+    </body>
+</html>

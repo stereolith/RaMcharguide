@@ -1,0 +1,114 @@
+body{
+    margin: 25px;
+    border: 0;
+}
+#wrapper{
+    font-family: sans-serif;
+    margin: 0 auto;
+    width: 1000px;
+}
+#titelbild{
+    width: 1000px;
+}
+.oben{
+    height: 185px;
+    width: 100%;
+}
+#titel{
+    position: absolute;
+    float: top;
+}
+.menu{
+    float:left;
+    width: 25%;
+    height: 250px;
+    padding: 30px 15px;
+    margin: 10px 5px 0 0;
+    background-color:#eaff78;
+    
+}
+.menu header{
+    font-size: 25px;
+    text-align: center;
+}
+.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li{
+    padding: 5px;
+    margin: 10px;
+    background-color: #2b2c3e;
+}
+.menu a{
+    display: block;
+    color:#d7ddea;
+}
+.menu li:hover{
+    background-color: #ff666d;
+}
+.mainContent{
+    padding: 20px 30px 15px 50px;
+    margin: 10px 0 0 5px;
+    width: 63%;
+    float: left;
+    background-color: #ffcccf;
+}
+.mainContent section{
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid grey;
+}
+
+#charakterListe table{
+    width: 95%;
+}
+#charakterListe td{
+    font-size: 20px;
+    background-color: #f7ffcc;
+}
+#charakterListe a{
+    color: black;
+    display: block;
+    height: 100%;
+    padding: 13px;
+}
+#charakterListe td:hover{
+    background-color: #eaff78;
+}
+#charakterListe table tr td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#charFoto{
+    width: 250px;
+    float: right;
+    margin-top: 10px;
+}
+#charakterSeite{
+    display: none;
+}
+#charakterSeite table{
+    width: 250px;
+    border: 2px solid darkblue;
+    border-collapse: collapse;
+    background-color: #F1AD9D;
+}
+#charakterSeite td{
+    border: 1px solid black;
+    padding: 3px;
+}
+.links{
+    background:linear-gradient(to right, rgba(0,0,0,0), rgba(234,255,120,1));
+}
+
+a{
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<figurenverzeichnis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="charschema.xsd">
+    <figur id="a00">
+        <bezeichnung>
+            <name>Morty</name>
+            <nachname>Smith</nachname>
+        </bezeichnung>
+        <category>Hauptfigur</category>
+        <age>14</age>
+        <planetoforigin>Erde</planetoforigin>
+        <species>Human</species>
+        <firstseen>
+            <episodename>Pilot</episodename>
+            <season>1</season>
+            <episode>1</episode>
+        </firstseen>
+        <beschreibung>Mortimer "Morty" Smith Sr. is one of the two eponymous main protagonists in Rick and Morty. He is the grandson of Rick and is often forced to tag along on his various misadventures. Morty attends Harry Herpson High School along with his sister, Summer.</beschreibung>
+        <picture>img/char/morty.jpg</picture>
+    </figur>
+    <figur id="a01">
+        <bezeichnung>
+            <name>Rick</name>
+            <nachname>Sanchez</nachname>
+        </bezeichnung>
+        <category>Hauptfigur</category>
+        <age>60</age>
+        <planetoforigin>Earth</planetoforigin>
+        <species>Human</species>
+        <firstseen>
+            <episodename>Pilot</episodename>
+            <season>1</season>
+            <episode>1</episode>
+        </firstseen>
+        <beschreibung>Rick Sanchez is the co-eponymous main character and leading protagonist of the show. He is a genius scientist whose alcoholism and reckless, nihilistic behavior are a source of concern for his daughter's family, as well as the safety of their son, Morty.</beschreibung>
+        <picture>img/char/rick.png</picture>
+    </figur>
+    <figur id="a02">
+        <bezeichnung>
+            <name>Beth</name>
+            <nachname>Smith</nachname>
+        </bezeichnung>
+        <category>Hauptfigur</category>
+        <age>34</age>
+        <planetoforigin>Earth</planetoforigin>
+        <species>Human</species>
+        <firstseen>
+            <episodename>Pilot</episodename>
+            <season>1</season>
+            <episode>1</episode>
+        </firstseen>
+        <beschreibung>Beth Smith (née Sanchez) is the daughter of a deceased Rick Sanchez, (who was then replaced by a Rick from another dimension.), the wife of Jerry Smith, and the mother of Summer Smith and a deceased Morty. Though, she currently acts as the mother of the Morty Smith and daughter to Rick Sanchez from the Dimension C-137. Sanctimonious and above others, she struggles with her husband over his contributions, due in part to his lower-level position, further driven by her father influencing her feelings of superiority.</beschreibung>
+        <picture>img/char/beth.png</picture>
+    </figur>
+    <figur id="a03">
+        <bezeichnung>
+            <name>Jerry</name>
+            <nachname>Smith</nachname>
+        </bezeichnung>
+        <category>Hauptfigur</category>
+        <age>34</age>
+        <planetoforigin>Earth</planetoforigin>
+        <species>Human</species>
+        <firstseen>
+            <episodename>Pilot</episodename>
+            <season>1</season>
+            <episode>1</episode>
+        </firstseen>
+        <beschreibung>Jerry Smith is the husband of Beth Smith and father to Summer Smith and, unknowingly, to a Morty Smith who died.</beschreibung>
+        <picture>img/char/jerry.png</picture>
+    </figur>
+    <figur id="a04">
+        <bezeichnung>
+            <name>Summer</name>
+            <nachname>Smith</nachname>
+        </bezeichnung>
+        <category>Hauptfigur</category>
+        <age>17</age>
+        <planetoforigin>Earth</planetoforigin>
+        <species>Human</species>
+        <firstseen>
+            <episodename>Pilot</episodename>
+            <season>1</season>
+            <episode>1</episode>
+        </firstseen>
+        <beschreibung>Summer Smith is the teenage daughter of Beth Smith, and Jerry Smith. She is the sister and granddaughter of her dimension's deceased Morty Smith, and Rick Sanchez. She is the only other member of the Smith Family to be aware of that fact. </beschreibung>
+        <picture>img/char/summer.jpg</picture>
+    </figur>
+    <figur id="a05">
+        <bezeichnung>
+            <name>Birdperson</name>
+        </bezeichnung>
+        <category>Nebenfigur</category>
+        <age>40</age>
+        <planetoforigin>Bird World</planetoforigin>
+        <species>Bird Person</species>
+        <firstseen>
+            <episodename>Ricksy Business</episodename>
+            <season>1</season>
+            <episode>11</episode>
+        </firstseen>
+        <beschreibung>Birdperson is a character who appears in the episodes "Ricksy Business", "Get Schwifty", and "The Wedding Squanchers". He is an old friend of Rick's, and has seemingly known Morty since he was a baby. He attends Rick's party looking for a new mate after ending his soul-bond with his previous spirit-partner. At the end of the episode, however, he gets back in the saddle with one of Summer's high school friends, Tammy.</beschreibung>
+        <picture>img/char/birdperson.png</picture>
+    </figur>
+    <figur id="a06">
+        <bezeichnung>
+            <name>Unity</name>
+        </bezeichnung>
+        <category>Nebenfigur</category>
+        <firstseen>
+            <episodename>Auto Erotic Assimilation</episodename>
+            <season>2</season>
+            <episode>3</episode>
+        </firstseen>
+        <beschreibung>Unity is a collective hivemind and Rick Sanchez's former lover. It is a powerful entity that can control minds, and form alliances. It takes the forms of multiple genders, races, and likely species, but uses both male and female avatars, including around Rick.</beschreibung>
+        <picture>img/char/unity.png</picture>
+    </figur>
+    <figur id="a08">
+        <bezeichnung>
+            <name>Prince Nebulon</name>
+        </bezeichnung>
+        <category>Nebenfigur</category>
+        <species>Zigerion</species>
+        <firstseen>
+            <episodename>M. Night Shaym-Aliens!</episodename>
+            <season>1</season>
+            <episode>4</episode>
+        </firstseen>
+        <beschreibung>Prince Nebulon was the leader of the Zigerions in Rick and Morty. He appears as the main antagonist in M. Night Shaym-Aliens!. He has a long-standing grudge against Rick and is committed to stealing the recipe for concentrated dark matter from him.</beschreibung>
+        <picture>img/char/princenebulon.png</picture>
+    </figur>
+    <figur id="a09">
+        <bezeichnung>
+            <name>Reverse Giraffe</name>
+        </bezeichnung>
+        <category>Nebenfigur</category>
+        <species>Parasite</species>
+        <firstseen>
+            <episodename>Total Rickall</episodename>
+            <season>2</season>
+            <episode>4</episode>
+        </firstseen>
+        <beschreibung>Reverse Giraffe is a false character portrayed by the shape-shifting Alien Parasites. Reverse Giraffe has a long body and a short neck. He can also walk on his hind legs.</beschreibung>
+        <picture>img/char/giraffe.png</picture>
+    </figur>
+    <figur id="a10">
+        <bezeichnung>
+            <name>Mr. Meeseeks</name>
+        </bezeichnung>
+        <category>Nebenfigur</category>
+        <planetoforigin>Squanch</planetoforigin>
+        <species>Meeseeks</species>
+        <firstseen>
+            <episodename>Meeseeks and Destroy</episodename>
+            <season>1</season>
+            <episode>5</episode>
+        </firstseen>
+        <beschreibung>Mr. Meeseeks (voiced by Justin Roiland) is the name of all the creatures summoned by activating a Meeseeks Box. The Meeseeks appear in the fifth episode of the first season, "Meeseeks and Destroy".</beschreibung>
+        <picture>img/char/meeseeks.png</picture>
+    </figur>
+    <figur id="a11">
+        <bezeichnung>
+            <name>Kevin</name>
+        </bezeichnung>
+        <category>Nebenfigur</category>
+        <species>Zigerion</species>
+        <firstseen>
+            <episodename>M. Night Shaym-Aliens!</episodename>
+            <season>1</season>
+            <episode>4</episode>
+        </firstseen>
+        <beschreibung>Kevin was a minor character featured in the episode M. Night Shaym-Aliens!. He is an unassuming Zigerion that is often picked on for his nerdy disposition. Kevin was directly responsible for researching human nudity which resulted in the creation of a lifelike Morty simulation.</beschreibung>
+        <picture>img/char/kevin.png</picture>
+    </figur>
+    <figur id="a12">
+        <bezeichnung>
+            <name>Jessica</name>
+        </bezeichnung>
+        <category>Nebenfigur</category>
+        <age>15</age>
+        <planetoforigin>Earth</planetoforigin>
+        <species>Human</species>
+        <firstseen>
+            <episodename>Pilot</episodename>
+            <season>1</season>
+            <episode>1</episode>
+        </firstseen>
+        <beschreibung>Jessica is a student at Harry Herpson High School. She is a popular girl in Morty's math class who he desires to be with romantically and often has surreal daydreams about, almost exclusively sexual in nature. Much to Morty's dismay she is already in a relationship with Brad, whom she frequently experiences difficulties with. She is voiced by Kari Wahlgren.</beschreibung>
+        <picture>img/char/jessica.png</picture>
+    </figur>
+</figurenverzeichnis>
